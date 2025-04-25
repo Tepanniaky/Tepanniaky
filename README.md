@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o [Jose Raimundo De Melo Filho]
+# 👋 Olá! Eu sou o Jose Raimundo De Melo Filho
 
 🎓 Estudante de Sistemas de Informação  
 🚀 Focado em desenvolvimento Web & Backend  
