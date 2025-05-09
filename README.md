@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Jose Raimundo De Melo Filho
 
 🎓 Estudante de Sistemas de Informação  
-🚀 Focado em desenvolvimento Web & Backend  
+🚀 Focado em desenvolvimento Web Front-end/fullstack 
 🌱 Atualmente aprendendo JavaScript, Node.js e React  
 💼 Buscando oportunidades de estágio em tecnologia  
 
