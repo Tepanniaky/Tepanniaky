@@ -18,4 +18,4 @@
 
 - Email: ze-fio@hotmail.com
 - LinkedIn: [José Raimundo De Melo Filho]([https://linkedin.com/in/seunome](https://www.linkedin.com/in/josé-raimundo-de-melo-filho-618168232/))  
-- Portfólio: [Meu site com o meu curriculo/porfolio](https://ak40esett.github.io/AK40ESETT_Testing/)
+
