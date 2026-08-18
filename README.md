@@ -16,12 +16,6 @@ Estudante de Sistemas de Informação, interessado em desenvolvimento web, mobil
 
 Sou estudante de **Sistemas de Informação** e venho desenvolvendo projetos acadêmicos e pessoais nas áreas de desenvolvimento web, mobile e backend.
 
-Tenho maior interesse na criação de aplicações completas, especialmente na construção de interfaces e na integração entre front-end, APIs e regras de negócio.
-
-Ao longo da graduação e dos meus estudos, já trabalhei com diferentes tecnologias e arquiteturas, buscando não apenas aprender uma linguagem ou framework, mas entender como as diferentes partes de uma aplicação se conectam.
-
-Atualmente continuo aprofundando meus conhecimentos em **desenvolvimento Full Stack**, com foco em JavaScript, React, Java, Spring Boot e desenvolvimento de APIs.
-
 ---
 
 ## Stack principal
