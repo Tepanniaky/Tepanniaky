@@ -88,59 +88,7 @@ Atualmente continuo aprofundando meus conhecimentos em **desenvolvimento Full St
 
 ---
 
-## Projetos em destaque
 
-### Jujutsu Battle Simulator
-
-Aplicação Full Stack de batalha por turnos, com interface desenvolvida em React e backend em Spring Boot.
-
-O projeto trabalha com comunicação HTTP entre frontend e backend, gerenciamento do estado da batalha, organização em camadas e construção de uma API REST.
-
-**Tecnologias:**
-`Java` `Spring Boot` `Spring Web MVC` `Maven` `React` `Vite` `JavaScript` `CSS` `REST API`
-
-[Ver repositório](https://github.com/Tepanniaky/jujutsu-battle)
-
----
-
-### API de Filmes e Avaliações
-
-API REST para gerenciamento de filmes e avaliações de usuários.
-
-Permite cadastrar, consultar, editar e excluir filmes, registrar avaliações, calcular médias e realizar filtros. O projeto também trabalha com persistência de dados utilizando SQLite.
-
-**Tecnologias:**
-`Node.js` `Express` `JavaScript` `SQLite` `REST API`
-
-[Ver repositório](https://github.com/Tepanniaky/api-filmes-avaliacoes)
-
----
-
-### Analisador de Texto
-
-Aplicação desenvolvida em Flutter com autenticação e persistência local.
-
-O sistema realiza análise de textos, incluindo contagem de caracteres e palavras, estimativa de tempo de leitura e identificação de palavras mais frequentes. O projeto utiliza SQLite e organização baseada em MVVM.
-
-**Tecnologias:**
-`Flutter` `Dart` `SQLite` `MVVM`
-
-[Ver repositório](https://github.com/Tepanniaky/analisador-texto-flutter)
-
----
-
-### Warm Memories Template
-
-Template de site interativo e personalizável criado a partir de um projeto pessoal de apresentação de memórias.
-
-A aplicação reúne contador de tempo, textos, galeria, elementos multimídia e mapa interativo. A versão pública foi adaptada para que outras pessoas possam reutilizar e personalizar o projeto.
-
-**Tecnologias:**
-`HTML` `CSS` `JavaScript` `Leaflet`
-
-[Ver repositório](https://github.com/Tepanniaky/Warm-memories-template)
-
----
 
 ## GitHub Stats
 
