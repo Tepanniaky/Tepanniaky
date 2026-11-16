@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Scanner escaneando o manifesto de carga">
+  <defs>
+    <radialGradient id="bg" cx="12%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#1d1408"/><stop offset="1" stop-color="#07090c"/>
+    </radialGradient>
+    <style>
+      text{font-family:'JetBrains Mono',Consolas,'Courier New',monospace}
+      .arm{fill:#f5a623;transform-origin:110px 75px;animation:spin 2.4s cubic-bezier(.7,0,.3,1) infinite}
+      @keyframes spin{0%{transform:rotate(0)}50%{transform:rotate(180deg)}100%{transform:rotate(360deg)}}
+      .wave{fill:none;stroke:#f5a623;stroke-width:1.5;transform-origin:110px 75px;animation:wave 2.4s ease-out infinite}
+      @keyframes wave{from{transform:scale(.2);opacity:1}to{transform:scale(2.6);opacity:0}}
+      .sweep{fill:#5ce1e6;opacity:.08;animation:sweep 2.4s ease-in-out infinite}
+      @keyframes sweep{0%{transform:translateX(0)}100%{transform:translateX(640px)}}
+      .blip{fill:#5ce1e6;opacity:0;animation:blip 2.4s infinite}
+      @keyframes blip{0%,40%{opacity:0}45%{opacity:1}100%{opacity:0}}
+      .bar{fill:#f5a623;animation:load 2.4s ease-in-out infinite;transform-origin:220px 0}
+      @keyframes load{0%{transform:scaleX(0)}70%,100%{transform:scaleX(1)}}
+      .txt{fill:#e8e2d6;font-size:15px;letter-spacing:2px}
+      .sub{fill:#8a7a62;font-size:11px;letter-spacing:3px}
+      .ok{fill:#5ce1e6;font-size:11px;letter-spacing:2px;animation:blink 1.2s steps(1) infinite}
+      @keyframes blink{50%{opacity:.2}}
+    </style>
+  </defs>
+  <rect width="840" height="150" rx="10" fill="url(#bg)" stroke="#3a2a10"/>
+  <rect class="sweep" x="200" y="10" width="40" height="130"/>
+  <circle class="wave" cx="110" cy="75" r="22"/>
+  <circle class="wave" cx="110" cy="75" r="22" style="animation-delay:-1.2s"/>
+  <g class="arm">
+    <path d="M110 75 L96 30 Q110 22 124 30 Z"/>
+    <path d="M110 75 L96 120 Q110 128 124 120 Z" opacity=".7"/>
+    <path d="M110 75 L65 61 Q57 75 65 89 Z" opacity=".85"/>
+    <path d="M110 75 L155 61 Q163 75 155 89 Z" opacity=".55"/>
+  </g>
+  <circle cx="110" cy="75" r="9" fill="#07090c" stroke="#ffd27a" stroke-width="2"/>
+  <circle cx="110" cy="75" r="3" fill="#ffd27a"/>
+  <text class="txt" x="220" y="58">ESCANEANDO REPOSITÓRIOS…</text>
+  <rect x="220" y="72" width="560" height="6" rx="3" fill="#2a2015"/>
+  <rect class="bar" x="220" y="72" width="560" height="6" rx="3"/>
+  <text class="sub" x="220" y="104">CARGAS PÚBLICAS IDENTIFICADAS · ASSINATURA QUIRAL VERIFICADA</text>
+  <text class="ok" x="780" y="58" text-anchor="end">● OK</text>
+  <circle class="blip" cx="420" cy="40" r="3"/>
+  <circle class="blip" cx="640" cy="122" r="3" style="animation-delay:-.8s"/>
+  <circle class="blip" cx="760" cy="34" r="3" style="animation-delay:-1.6s"/>
+</svg>

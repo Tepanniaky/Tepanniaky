@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Fim da transmissão. Continue conectando.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05070a" stop-opacity="0"/><stop offset="1" stop-color="#1a1208"/>
+    </linearGradient>
+    <style>
+      text{font-family:'JetBrains Mono',Consolas,'Courier New',monospace;text-anchor:middle}
+      .big{fill:#f5a623;font-size:20px;letter-spacing:8px;animation:breathe 4s ease-in-out infinite}
+      @keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+      .small{fill:#8a7a62;font-size:11px;letter-spacing:4px}
+      .hand{fill:none;stroke:#ffd27a;stroke-width:2;stroke-linecap:round;stroke-dasharray:140;stroke-dashoffset:140;animation:draw 5s ease-in-out infinite}
+      @keyframes draw{0%{stroke-dashoffset:140}40%,70%{stroke-dashoffset:0}100%{stroke-dashoffset:-140}}
+      .like{fill:#f5a623;opacity:0;animation:like 5s ease-out infinite}
+      @keyframes like{0%,35%{opacity:0;transform:translateY(0)}45%{opacity:1}80%{opacity:0;transform:translateY(-40px)}100%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1200" height="170" fill="url(#bg)"/>
+  <!-- duas mãos quase se tocando: conexão -->
+  <path class="hand" d="M470 70 C 510 70, 530 60, 560 62 L 588 64"/>
+  <path class="hand" d="M730 70 C 690 70, 670 60, 640 62 L 612 64"/>
+  <g class="like"><text x="600" y="58" style="font-size:22px;fill:#f5a623">👍</text></g>
+  <text class="big" x="600" y="118">FIM DA TRANSMISSÃO</text>
+  <text class="small" x="600" y="146">CONTINUE CONECTANDO · ATÉ A PRÓXIMA ENTREGA</text>
+</svg>

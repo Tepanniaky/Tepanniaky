@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="214" viewBox="0 0 420 214" role="img" aria-label="Carga Warm Memories">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14100b"/><stop offset="1" stop-color="#07090c"/></linearGradient>
+    <linearGradient id="fill" x1="0" x2="1"><stop offset="0" stop-color="#c48a1c"/><stop offset="1" stop-color="#ffd27a"/></linearGradient>
+    <style>
+      text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+      .id{fill:#5ce1e6;font-size:10px;letter-spacing:2px}
+      .title{fill:#f3ede2;font-size:19px;font-weight:700;font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .desc{fill:#a89a85;font-size:11.5px}
+      .lbl{fill:#8a7a62;font-size:9.5px;letter-spacing:2px}
+      .val{fill:#e8e2d6;font-size:10px;letter-spacing:1px}
+      .chip{fill:#e8e2d6;font-size:10.5px}
+      .st{font-size:9.5px;letter-spacing:2px;font-weight:700}
+      .bar{animation:grow 1.6s cubic-bezier(.2,.8,.2,1) .3s both;transform-origin:24px 0}
+      @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+      .scan{fill:#f5a623;opacity:.07;animation:scan 4s linear infinite}
+      @keyframes scan{from{transform:translateY(-30px)}to{transform:translateY(230px)}}
+      .dot{animation:blink 1.4s steps(1) infinite}
+      @keyframes blink{50%{opacity:.15}}
+    </style>
+    <clipPath id="c"><rect width="420" height="214" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="420" height="214" fill="url(#bg)"/>
+    <rect class="scan" width="420" height="24"/>
+  </g>
+  <rect x=".5" y=".5" width="419" height="213" rx="10" fill="none" stroke="#3a2a10"/>
+  <path d="M8 26 V8 H26 M394 8 H412 V26 M8 188 V206 H26 M412 188 V206 H394" stroke="#f5a623" stroke-width="1.6" fill="none"/>
+  <text x="24" y="34" class="id">BR-03 ▸ TEMPLATE PÚBLICO</text>
+  <g transform="translate(396,34)" text-anchor="end">
+    <circle class="dot" cx="-71" cy="-3.5" r="3.5" fill="#5ce1e6"/>
+    <text class="st" fill="#5ce1e6">ENTREGUE</text>
+  </g>
+  <text x="24" y="72" class="title">Warm Memories</text>
+  <text x="24" y="106" class="desc">Memórias navegáveis: carta animada, galeria, música e</text><text x="24" y="124" class="desc">mapa Leaflet com marcadores de coração.</text>
+  <text x="24" y="156" class="lbl">COMMITS</text>
+  <rect x="94" y="149" width="230" height="6" rx="3" fill="#2a2015"/>
+  <rect class="bar" x="94" y="149" width="46" height="6" rx="3" fill="url(#fill)"/>
+  <text x="396" y="156" class="val" text-anchor="end">2 · 20 KB</text>
+  <g transform="translate(24,176)"><rect width="90" height="20" rx="10" fill="#f1e05a" fill-opacity=".14" stroke="#f1e05a" stroke-opacity=".6"/><circle cx="10" cy="10" r="3" fill="#f1e05a"/><text x="18" y="14" class="chip">JavaScript</text></g><g transform="translate(120,176)"><rect width="38" height="20" rx="10" fill="#663399" fill-opacity=".14" stroke="#663399" stroke-opacity=".6"/><circle cx="10" cy="10" r="3" fill="#663399"/><text x="18" y="14" class="chip">CSS</text></g><g transform="translate(164,176)"><rect width="46" height="20" rx="10" fill="#e34c26" fill-opacity=".14" stroke="#e34c26" stroke-opacity=".6"/><circle cx="10" cy="10" r="3" fill="#e34c26"/><text x="18" y="14" class="chip">HTML</text></g>
+</svg>
