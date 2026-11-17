@@ -113,7 +113,7 @@ timeline
 - [x] Publicar um template open source que qualquer pessoa pode reutilizar
 - [ ] Concluir Sistemas de Informação 🎓
 - [ ] Lançar um app mobile próprio na loja 📱
-- [ ] Conseguir o primeiro estágio em desenvolvimento ← **você pode ajudar nessa**
+- [ ] Conseguir o segundo estágio em desenvolvimento ← **você pode ajudar nessa**
 
 <img src="assets/strand-divider.svg" width="100%" alt=""/>
 
