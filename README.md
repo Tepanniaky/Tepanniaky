@@ -23,7 +23,7 @@
 
 <!--STRAND:START-->
 > 🧬 **Strand do dia** (muda todo dia, sorteado pelo Chiral Sync):
-> *“Nenhuma entrega é solitária: alguém sempre deixou uma ponte antes.”*
+> *“Refatorar é reorganizar a carga para andar mais longe.”*
 <!--STRAND:END-->
 
 <img src="assets/strand-divider.svg" width="100%" alt=""/>
@@ -128,7 +128,7 @@ timeline
 
 <!--DELIVERIES:START-->
 ```diff
-# LOG DA REDE QUIRAL · sincronizado em 16/11/2026 09:24 BRT
+# LOG DA REDE QUIRAL · sincronizado em 17/11/2026 14:56 BRT
 + [15/11/2026 13:41] Projeto-Brasa-Hackaton-NASA ..... EM TRÂNSITO
   [17/08/2026 22:09] jujutsu-battle .................. ENTREGUE ✔
   [17/08/2026 21:28] Warm-memories-template .......... ENTREGUE ✔
