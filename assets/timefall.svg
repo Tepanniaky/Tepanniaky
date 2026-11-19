@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Previsão de timefall: risco ALTO, 24.5 graus, 90% de chuva">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Previsão de timefall: risco ALTO, 24.5 graus, 97% de chuva">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1218"/><stop offset="1" stop-color="#07090c"/></linearGradient>
     <style>
@@ -18,10 +18,10 @@
   <rect x=".5" y=".5" width="839" height="149" rx="12" fill="none" stroke="#1f2a36"/>
   <text x="28" y="34" class="k">☂ PREVISÃO DE TIMEFALL · VITÓRIA DA CONQUISTA</text>
   <text x="28" y="82" class="big">24°C</text>
-  <text x="130" y="66" class="v">GAROA FRACA</text>
-  <text x="130" y="86" class="lbl">VENTO 10 KM/H · CHUVA 90%</text>
+  <text x="130" y="66" class="v">TROVOADA</text>
+  <text x="130" y="86" class="lbl">VENTO 5 KM/H · CHUVA 97%</text>
   <text x="28" y="122" class="v">» Timefall forte. Fique no abrigo e escreva testes.</text>
   <text x="812" y="34" class="lbl" text-anchor="end">RISCO DE TIMEFALL</text>
   <text x="812" y="72" class="risk" text-anchor="end">ALTO</text>
-  <text x="812" y="122" class="lbl" text-anchor="end" style="font-size:8.5px">ATUALIZADO 18/11 14:38 BRT · OPEN-METEO</text>
+  <text x="812" y="122" class="lbl" text-anchor="end" style="font-size:8.5px">ATUALIZADO 19/11 14:46 BRT · OPEN-METEO</text>
 </svg>
