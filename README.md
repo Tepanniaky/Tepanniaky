@@ -23,7 +23,7 @@
 
 <!--STRAND:START-->
 > 🧬 **Strand do dia** (muda todo dia, sorteado pelo Chiral Sync):
-> *“Cada repositório é uma cidade reconectada à rede.”*
+> *“Todo bug é só uma ponte que ainda não foi construída.”*
 <!--STRAND:END-->
 
 <img src="assets/strand-divider.svg" width="100%" alt=""/>
@@ -128,7 +128,7 @@ timeline
 
 <!--DELIVERIES:START-->
 ```diff
-# LOG DA REDE QUIRAL · sincronizado em 19/11/2026 14:46 BRT
+# LOG DA REDE QUIRAL · sincronizado em 20/11/2026 14:23 BRT
 + [15/11/2026 13:41] Projeto-Brasa-Hackaton-NASA ..... EM TRÂNSITO
   [17/08/2026 22:09] jujutsu-battle .................. ENTREGUE ✔
   [17/08/2026 21:28] Warm-memories-template .......... ENTREGUE ✔
