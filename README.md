@@ -23,7 +23,7 @@
 
 <!--STRAND:START-->
 > 🧬 **Strand do dia** (muda todo dia, sorteado pelo Chiral Sync):
-> *“Commit pequeno, passo firme. Carga grande, passo nenhum.”*
+> *“Conectar pessoas é o propósito. O código é só a estrada.”*
 <!--STRAND:END-->
 
 <img src="assets/strand-divider.svg" width="100%" alt=""/>
@@ -128,7 +128,7 @@ timeline
 
 <!--DELIVERIES:START-->
 ```diff
-# LOG DA REDE QUIRAL · sincronizado em 22/11/2026 13:45 BRT
+# LOG DA REDE QUIRAL · sincronizado em 23/11/2026 17:38 BRT
 + [15/11/2026 13:41] Projeto-Brasa-Hackaton-NASA ..... EM TRÂNSITO
   [17/08/2026 22:09] jujutsu-battle .................. ENTREGUE ✔
   [17/08/2026 21:28] Warm-memories-template .......... ENTREGUE ✔
