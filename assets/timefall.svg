@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Previsão de timefall: risco ALTO, 24.1 graus, 90% de chuva">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Previsão de timefall: risco ALTO, 27.1 graus, 63% de chuva">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1218"/><stop offset="1" stop-color="#07090c"/></linearGradient>
     <style>
@@ -17,11 +17,11 @@
   <g clip-path="url(#c)"><rect width="840" height="150" fill="url(#bg)"/><line class="r" x1="0" y1="0" x2="-8" y2="18" style="animation-delay:-0.00s"/><line class="r" x1="53" y1="0" x2="45" y2="18" style="animation-delay:-0.37s"/><line class="r" x1="106" y1="0" x2="98" y2="18" style="animation-delay:-0.74s"/><line class="r" x1="159" y1="0" x2="151" y2="18" style="animation-delay:-1.11s"/><line class="r" x1="212" y1="0" x2="204" y2="18" style="animation-delay:-0.08s"/><line class="r" x1="265" y1="0" x2="257" y2="18" style="animation-delay:-0.45s"/><line class="r" x1="318" y1="0" x2="310" y2="18" style="animation-delay:-0.82s"/><line class="r" x1="371" y1="0" x2="363" y2="18" style="animation-delay:-1.19s"/><line class="r" x1="424" y1="0" x2="416" y2="18" style="animation-delay:-0.16s"/><line class="r" x1="477" y1="0" x2="469" y2="18" style="animation-delay:-0.53s"/><line class="r" x1="530" y1="0" x2="522" y2="18" style="animation-delay:-0.90s"/><line class="r" x1="583" y1="0" x2="575" y2="18" style="animation-delay:-1.27s"/><line class="r" x1="636" y1="0" x2="628" y2="18" style="animation-delay:-0.24s"/><line class="r" x1="689" y1="0" x2="681" y2="18" style="animation-delay:-0.61s"/><line class="r" x1="742" y1="0" x2="734" y2="18" style="animation-delay:-0.98s"/><line class="r" x1="795" y1="0" x2="787" y2="18" style="animation-delay:-1.35s"/><line class="r" x1="8" y1="0" x2="0" y2="18" style="animation-delay:-0.32s"/><line class="r" x1="61" y1="0" x2="53" y2="18" style="animation-delay:-0.69s"/><line class="r" x1="114" y1="0" x2="106" y2="18" style="animation-delay:-1.06s"/><line class="r" x1="167" y1="0" x2="159" y2="18" style="animation-delay:-0.03s"/><line class="r" x1="220" y1="0" x2="212" y2="18" style="animation-delay:-0.40s"/><line class="r" x1="273" y1="0" x2="265" y2="18" style="animation-delay:-0.77s"/><line class="r" x1="326" y1="0" x2="318" y2="18" style="animation-delay:-1.14s"/><line class="r" x1="379" y1="0" x2="371" y2="18" style="animation-delay:-0.11s"/><line class="r" x1="432" y1="0" x2="424" y2="18" style="animation-delay:-0.48s"/><line class="r" x1="485" y1="0" x2="477" y2="18" style="animation-delay:-0.85s"/><line class="r" x1="538" y1="0" x2="530" y2="18" style="animation-delay:-1.22s"/><line class="r" x1="591" y1="0" x2="583" y2="18" style="animation-delay:-0.19s"/><line class="r" x1="644" y1="0" x2="636" y2="18" style="animation-delay:-0.56s"/><line class="r" x1="697" y1="0" x2="689" y2="18" style="animation-delay:-0.93s"/></g>
   <rect x=".5" y=".5" width="839" height="149" rx="12" fill="none" stroke="#1f2a36"/>
   <text x="28" y="34" class="k">☂ PREVISÃO DE TIMEFALL · VITÓRIA DA CONQUISTA</text>
-  <text x="28" y="82" class="big">24°C</text>
+  <text x="28" y="82" class="big">27°C</text>
   <text x="130" y="66" class="v">NUBLADO</text>
-  <text x="130" y="86" class="lbl">VENTO 8 KM/H · CHUVA 90%</text>
+  <text x="130" y="86" class="lbl">VENTO 9 KM/H · CHUVA 63%</text>
   <text x="28" y="122" class="v">» Timefall forte. Fique no abrigo e escreva testes.</text>
   <text x="812" y="34" class="lbl" text-anchor="end">RISCO DE TIMEFALL</text>
   <text x="812" y="72" class="risk" text-anchor="end">ALTO</text>
-  <text x="812" y="122" class="lbl" text-anchor="end" style="font-size:8.5px">ATUALIZADO 23/11 17:38 BRT · OPEN-METEO</text>
+  <text x="812" y="122" class="lbl" text-anchor="end" style="font-size:8.5px">ATUALIZADO 24/11 16:45 BRT · OPEN-METEO</text>
 </svg>
