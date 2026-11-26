@@ -23,7 +23,7 @@
 
 <!--STRAND:START-->
 > 🧬 **Strand do dia** (muda todo dia, sorteado pelo Chiral Sync):
-> *“A chuva apaga o caminho, mas o git lembra de tudo.”*
+> *“Teste antes de atravessar o rio. Sempre.”*
 <!--STRAND:END-->
 
 <img src="assets/strand-divider.svg" width="100%" alt=""/>
@@ -128,7 +128,7 @@ timeline
 
 <!--DELIVERIES:START-->
 ```diff
-# LOG DA REDE QUIRAL · sincronizado em 25/11/2026 15:52 BRT
+# LOG DA REDE QUIRAL · sincronizado em 26/11/2026 15:41 BRT
 + [15/11/2026 13:41] Projeto-Brasa-Hackaton-NASA ..... EM TRÂNSITO
   [17/08/2026 22:09] jujutsu-battle .................. ENTREGUE ✔
   [17/08/2026 21:28] Warm-memories-template .......... ENTREGUE ✔
